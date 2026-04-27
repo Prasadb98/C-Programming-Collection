@@ -93,7 +93,7 @@ A simple program to calculate the sum of first N natural numbers or user-entered
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/c-programming-projects.git
+   git clone https://github.com/Prasadb98/c-programming-projects.git
 cd c-programming-projects
 
 2. Compile any project:
